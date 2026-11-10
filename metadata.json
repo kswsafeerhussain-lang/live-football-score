@@ -1,0 +1,6 @@
+{
+  "name": "GoalPulse - Football Live Scores & Match Tracker",
+  "description": "Professional live football scores, fixtures, standings, and match center with DSA Stack event management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
